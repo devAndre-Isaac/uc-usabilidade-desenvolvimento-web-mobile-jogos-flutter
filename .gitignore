@@ -11,6 +11,8 @@
 ios/
 android/
 test/
+web/
+.metadata
 
 # IntelliJ related
 *.iml
